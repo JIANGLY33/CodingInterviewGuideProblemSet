@@ -6,15 +6,25 @@ public class MyStack1 {
     private Stack<Integer> datastack;
     private Stack<Integer> minstack;
 
-    public int pop(){
-        
+    public MyStack1() {
+        datastack = new Stack<Integer>();
+        minstack = new Stack<Integer>();
     }
 
-    public boolean push(int x){
+    public int pop(){
+        int num = datastack.pop();
+        if(num == minstack.peek())
+            minstack.pop();
+        return num;
+    }
 
+    public void push(int x){
+        datastack.push(x);
+        if(minstack.empty())minstack.push(x);
+        else if(x <= minstack.peek())minstack.push(x);
     }
 
     public int getMin() {
-
+        return minstack.peek();
     }
 }
