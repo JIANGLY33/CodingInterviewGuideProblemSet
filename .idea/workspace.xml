@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="txt">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReverseStackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingInterviewGuide.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingInterviewGuide.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StackAndQueue/getMinStack/MyStack1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StackAndQueue/getMinStack/MyStack1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StackAndQueue/getMinStack/MyStack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StackAndQueue/getMinStack/MyStack2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/GetMinStackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GetMinStackTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,50 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="969">
+              <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -92,8 +59,10 @@
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.txt" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.md" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md" />
-        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" />
         <option value="$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReverseStackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java" />
       </list>
     </option>
   </component>
@@ -109,6 +78,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,13 +138,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555070407100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555135569886" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -195,12 +164,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TwoStacksQueueTest.test">
+  <component name="RunManager" selected="JUnit.ReverseStackTest.test">
     <configuration name="GetMinStackTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingInterviewGuide" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GetMinStackTest" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterviewGuide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseStackTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,6 +197,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReverseStackTest.test" />
         <item itemvalue="JUnit.TwoStacksQueueTest.test" />
         <item itemvalue="JUnit.GetMinStackTest.test1" />
       </list>
@@ -234,7 +214,8 @@
       <option name="presentableId" value="Default" />
       <updated>1555050188425</updated>
       <workItem from="1555050193368" duration="6567000" />
-      <workItem from="1555067582555" duration="2543000" />
+      <workItem from="1555067582555" duration="2947000" />
+      <workItem from="1555129090625" duration="5652000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -243,22 +224,17 @@
       <option name="project" value="LOCAL" />
       <updated>1555056840720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="由两个栈组成的队列">
+      <created>1555070545362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555070545362</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetMinStackTest_test1 - 2019.04.12 at 15h 50m 36s.xml">
-      <configuration name="GetMinStackTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetMinStackTest_test1 - 2019.04.12 at 15h 50m 49s.xml">
-      <configuration name="GetMinStackTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetMinStackTest_test1 - 2019.04.12 at 15h 51m 41s.xml">
-      <configuration name="GetMinStackTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetMinStackTest_test1 - 2019.04.12 at 15h 52m 04s.xml">
-      <configuration name="GetMinStackTest.test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GetMinStackTest_test1 - 2019.04.12 at 15h 52m 12s.xml">
       <configuration name="GetMinStackTest.test1" configurationId="JUnit" />
     </history-entry>
@@ -277,15 +253,27 @@
     <history-entry file="TwoStacksQueueTest_test - 2019.04.12 at 19h 30m 27s.xml">
       <configuration name="TwoStacksQueueTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TwoStacksQueueTest_test - 2019.04.12 at 20h 00m 10s.xml">
+      <configuration name="TwoStacksQueueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStackTest_test - 2019.04.13 at 12h 48m 59s.xml">
+      <configuration name="ReverseStackTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStackTest_test - 2019.04.13 at 12h 49m 51s.xml">
+      <configuration name="ReverseStackTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStackTest_test - 2019.04.13 at 12h 50m 10s.xml">
+      <configuration name="ReverseStackTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9110000" />
+    <option name="totallyTimeSpent" value="15166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -294,7 +282,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,7 +309,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="txt" />
+    <MESSAGE value="由两个栈组成的队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="由两个栈组成的队列" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/Java/lib/src.zip!/java.base/java/util/Stack.java">
@@ -345,28 +334,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md" />
     <entry file="file://$PROJECT_DIR$/src/test/java/GetMinStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -374,13 +342,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -399,18 +360,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="437">
           <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
         </state>
       </provider>
     </entry>
