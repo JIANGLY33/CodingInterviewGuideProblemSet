@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CatDogQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CatDogQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CatDogQueueTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,35 +17,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="741">
               <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2567#2568#0" expanded="true" />
-                <element signature="e#2591#2592#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="313">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,9 +41,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1935#1936#0" expanded="true" />
+                <element signature="e#1959#1960#0" expanded="true" />
+                <element signature="e#2039#2040#0" expanded="true" />
+                <element signature="e#2069#2070#0" expanded="true" />
+                <element signature="e#2119#2120#0" expanded="true" />
+                <element signature="e#2160#2161#0" expanded="true" />
+                <element signature="e#1632#1633#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+                <element signature="e#1687#1688#0" expanded="true" />
+                <element signature="e#1715#1716#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
+                <element signature="e#1788#1789#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
               <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
@@ -109,7 +120,9 @@
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Myqueue2.java" />
         <option value="$PROJECT_DIR$/src/test/java/CatDogQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue2.java" />
       </list>
     </option>
   </component>
@@ -124,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,12 +206,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555150488615" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555156869701" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -283,7 +296,8 @@
       <workItem from="1555050193368" duration="6567000" />
       <workItem from="1555067582555" duration="2947000" />
       <workItem from="1555129090625" duration="5802000" />
-      <workItem from="1555144697106" duration="5186000" />
+      <workItem from="1555144697106" duration="5294000" />
+      <workItem from="1555153711299" duration="2888000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -306,28 +320,17 @@
       <option name="project" value="LOCAL" />
       <updated>1555135602893</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="猫狗队列">
+      <created>1555150515879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555150515879</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TwoStacksQueueTest_test - 2019.04.12 at 19h 30m 27s.xml">
-      <configuration name="TwoStacksQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TwoStacksQueueTest_test - 2019.04.12 at 20h 00m 10s.xml">
-      <configuration name="TwoStacksQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStackTest_test - 2019.04.13 at 12h 48m 59s.xml">
-      <configuration name="ReverseStackTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStackTest_test - 2019.04.13 at 12h 49m 51s.xml">
-      <configuration name="ReverseStackTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStackTest_test - 2019.04.13 at 12h 50m 10s.xml">
-      <configuration name="ReverseStackTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 17h 59m 22s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 00m 38s.xml">
       <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
     </history-entry>
@@ -340,15 +343,33 @@
     <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 11m 42s.xml">
       <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 13m 38s.xml">
+      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 14m 12s.xml">
+      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 14m 44s.xml">
+      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 19h 55m 23s.xml">
+      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 19h 56m 23s.xml">
+      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 19h 56m 52s.xml">
+      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20502000" />
+    <option name="totallyTimeSpent" value="23498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.261924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3321492" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42095914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,7 +407,8 @@
     <MESSAGE value="txt" />
     <MESSAGE value="由两个栈组成的队列" />
     <MESSAGE value="递归逆置栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="递归逆置栈" />
+    <MESSAGE value="猫狗队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="猫狗队列" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/Java/lib/src.zip!/java.base/java/util/Stack.java">
@@ -485,24 +507,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="152">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -514,32 +546,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="741">
+          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+        <state relative-caret-position="181">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2567#2568#0" expanded="true" />
-            <element signature="e#2591#2592#0" expanded="true" />
+            <element signature="e#1935#1936#0" expanded="true" />
+            <element signature="e#1959#1960#0" expanded="true" />
+            <element signature="e#2039#2040#0" expanded="true" />
+            <element signature="e#2069#2070#0" expanded="true" />
+            <element signature="e#2119#2120#0" expanded="true" />
+            <element signature="e#2160#2161#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="313">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

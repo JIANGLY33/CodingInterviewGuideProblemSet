@@ -1,12 +1,14 @@
 import StackAndQueue.CatDogQueue.Cat;
 import StackAndQueue.CatDogQueue.Dog;
 import StackAndQueue.CatDogQueue.MyQueue1;
+import StackAndQueue.CatDogQueue.MyQueue2;
 import org.junit.Test;
 
 public class CatDogQueueTest {
     @Test
     public void test() {
-        MyQueue1 q = new MyQueue1();
+      //  MyQueue1 q = new MyQueue1();
+        MyQueue2 q = new MyQueue2();
         for(int i = 0; i < 3; i++){
             Dog dog = new Dog();
             Cat cat = new Cat();
