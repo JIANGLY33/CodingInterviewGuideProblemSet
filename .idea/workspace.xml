@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StackSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HanoiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,55 +21,40 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GetMinStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1491#1492#0" expanded="true" />
+                <element signature="e#1512#1513#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StackSortTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="171">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#185#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,6 +96,9 @@
         <option value="$PROJECT_DIR$/src/test/java/StackSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/CatDogQueueTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StackSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HanoiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution2.java" />
       </list>
     </option>
   </component>
@@ -124,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,6 +154,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="HanoiProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
               <item name="SortStackByStack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -183,14 +182,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555158373320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555241804272" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -211,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StackSortTest.Test">
+  <component name="RunManager" selected="JUnit.HanoiTest.test">
     <configuration name="CatDogQueueTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingInterviewGuide" />
       <option name="PACKAGE_NAME" value="" />
@@ -222,11 +220,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetMinStackTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HanoiTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingInterviewGuide" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GetMinStackTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="HanoiTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HanoiTest.test" />
         <item itemvalue="JUnit.StackSortTest.Test" />
         <item itemvalue="JUnit.CatDogQueueTest.test" />
         <item itemvalue="JUnit.ReverseStackTest.test" />
         <item itemvalue="JUnit.TwoStacksQueueTest.test" />
-        <item itemvalue="JUnit.GetMinStackTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +284,9 @@
       <workItem from="1555067582555" duration="2947000" />
       <workItem from="1555129090625" duration="5802000" />
       <workItem from="1555144697106" duration="5294000" />
-      <workItem from="1555153711299" duration="4328000" />
+      <workItem from="1555153711299" duration="4733000" />
+      <workItem from="1555219195034" duration="1211000" />
+      <workItem from="1555226957947" duration="4086000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -323,31 +323,17 @@
       <option name="project" value="LOCAL" />
       <updated>1555156904030</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="......">
+      <created>1555158563569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555158563569</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 02m 06s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 09m 19s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 11m 42s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 13m 38s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 14m 12s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 18h 14m 44s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatDogQueueTest_test - 2019.04.13 at 19h 55m 23s.xml">
-      <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CatDogQueueTest_test - 2019.04.13 at 19h 56m 23s.xml">
       <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
     </history-entry>
@@ -357,9 +343,30 @@
     <history-entry file="CatDogQueueTest_test - 2019.04.13 at 20h 01m 18s.xml">
       <configuration name="CatDogQueueTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StackSortTest_Test - 2019.04.13 at 20h 25m 33s.xml">
+      <configuration name="StackSortTest.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackSortTest_Test - 2019.04.13 at 20h 26m 20s.xml">
+      <configuration name="StackSortTest.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 37m 25s.xml">
+      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 38m 06s.xml">
+      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 41m 47s.xml">
+      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 42m 22s.xml">
+      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 44m 12s.xml">
+      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24938000" />
+    <option name="totallyTimeSpent" value="30640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,7 +381,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27405012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -383,7 +390,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.42095914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.3374778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,13 +440,28 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="txt" />
     <MESSAGE value="由两个栈组成的队列" />
     <MESSAGE value="递归逆置栈" />
     <MESSAGE value="猫狗队列" />
-    <option name="LAST_COMMIT_MESSAGE" value="猫狗队列" />
+    <MESSAGE value="......" />
+    <option name="LAST_COMMIT_MESSAGE" value="......" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
@@ -458,15 +480,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -572,13 +594,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -603,37 +619,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GetMinStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="57">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -642,11 +631,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StackSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="304">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#185#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1512#1513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
