@@ -1,4 +1,4 @@
-package StackAndQueue.MaxWIndowArray;
+package StackAndQueue.MaxWindowArray;
 
 /** 常规解法：迭代数组,时间复杂度为O(N*W)
  *

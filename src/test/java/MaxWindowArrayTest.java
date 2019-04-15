@@ -1,5 +1,5 @@
-import StackAndQueue.MaxWIndowArray.getMaxWindow1;
-import StackAndQueue.MaxWIndowArray.getMaxWindow2;
+import StackAndQueue.MaxWindowArray.getMaxWindow1;
+import StackAndQueue.MaxWindowArray.getMaxWindow2;
 import org.junit.Test;
 
 public class MaxWindowArrayTest {

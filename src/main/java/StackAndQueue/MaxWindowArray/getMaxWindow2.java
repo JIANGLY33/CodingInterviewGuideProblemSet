@@ -1,4 +1,4 @@
-package StackAndQueue.MaxWIndowArray;
+package StackAndQueue.MaxWindowArray;
 
 import java.util.LinkedList;
 

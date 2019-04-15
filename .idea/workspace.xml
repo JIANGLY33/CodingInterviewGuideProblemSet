@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,7 +17,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -39,10 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="209">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -89,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java" />
         <option value="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" />
       </list>
     </option>
   </component>
@@ -145,7 +145,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxWIndowArray" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxWindowArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
@@ -169,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555340560058" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555340884323" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -269,7 +269,7 @@
       <workItem from="1555219195034" duration="1211000" />
       <workItem from="1555226957947" duration="4378000" />
       <workItem from="1555309745578" duration="1255000" />
-      <workItem from="1555334706955" duration="4468000" />
+      <workItem from="1555334706955" duration="4792000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -356,7 +356,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36655000" />
+    <option name="totallyTimeSpent" value="36979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,9 +369,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27485853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27485853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,7 +379,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.30373" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.30373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -689,7 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -706,10 +705,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="209">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
