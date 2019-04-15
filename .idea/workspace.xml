@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,40 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="228">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="30" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="133">
+              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -92,10 +86,13 @@
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java" />
         <option value="$PROJECT_DIR$/src/test/java/HanoiTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-21" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
@@ -106,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -147,16 +145,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
-              <item name="HanoiProblem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
-              <item name="SortStackByStack" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxWIndowArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
@@ -175,13 +164,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555241839540" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555340560058" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -202,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HanoiTest.test">
+  <component name="RunManager" selected="JUnit.MaxWindowArrayTest.test">
     <configuration name="CatDogQueueTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingInterviewGuide" />
       <option name="PACKAGE_NAME" value="" />
@@ -217,6 +205,16 @@
       <module name="CodingInterviewGuide" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="HanoiTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxWindowArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterviewGuide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MaxWindowArrayTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -243,23 +241,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStacksQueueTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterviewGuide" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TwoStacksQueueTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaxWindowArrayTest.test" />
         <item itemvalue="JUnit.HanoiTest.test" />
         <item itemvalue="JUnit.StackSortTest.Test" />
         <item itemvalue="JUnit.CatDogQueueTest.test" />
         <item itemvalue="JUnit.ReverseStackTest.test" />
-        <item itemvalue="JUnit.TwoStacksQueueTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -280,6 +268,8 @@
       <workItem from="1555153711299" duration="4733000" />
       <workItem from="1555219195034" duration="1211000" />
       <workItem from="1555226957947" duration="4378000" />
+      <workItem from="1555309745578" duration="1255000" />
+      <workItem from="1555334706955" duration="4468000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -334,39 +324,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StackSortTest_Test - 2019.04.13 at 20h 25m 33s.xml">
-      <configuration name="StackSortTest.Test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 33m 48s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StackSortTest_Test - 2019.04.13 at 20h 26m 20s.xml">
-      <configuration name="StackSortTest.Test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 35m 41s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 37m 25s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 36m 35s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 38m 06s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 37m 07s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 41m 47s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 37m 37s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 42m 22s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 44m 09s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 16h 44m 12s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 48m 57s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 19h 35m 20s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 54m 41s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 19h 35m 58s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 56m 34s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HanoiTest_test - 2019.04.14 at 19h 36m 40s.xml">
-      <configuration name="HanoiTest.test" configurationId="JUnit" />
+    <history-entry file="MaxWindowArrayTest_test - 2019.04.15 at 22h 57m 23s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30932000" />
+    <option name="totallyTimeSpent" value="36655000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,10 +368,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27405012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27485853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,7 +380,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.25399646" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.30373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -481,15 +471,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -640,13 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -674,20 +658,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
-          <caret line="43" column="30" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="43" selection-end-column="30" />
+          <caret line="43" column="30" selection-start-line="41" selection-start-column="8" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -695,6 +679,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="120" column="31" lean-forward="true" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
