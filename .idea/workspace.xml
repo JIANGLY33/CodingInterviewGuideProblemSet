@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8b442277-26f8-4403-aa0f-60f7d1b6a327" name="Default Changelist" comment="HanoiProblem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,17 +21,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="86" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+            <state relative-caret-position="114">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-380">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="43" column="30" selection-start-line="41" selection-start-column="8" selection-end-line="43" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+            <state relative-caret-position="399">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -63,22 +105,18 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java" />
         <option value="$PROJECT_DIR$/src/test/java/GetMinStackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.txt" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.md" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md" />
         <option value="$PROJECT_DIR$/src/test/java/TwoStacksQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" />
         <option value="$PROJECT_DIR$/src/test/java/ReverseStackTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Pet.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/Myqueue2.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/StackSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/CatDogQueueTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StackSortTest.java" />
@@ -88,7 +126,12 @@
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow1.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWIndowArray/getMaxWindow2.java" />
         <option value="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java" />
       </list>
     </option>
   </component>
@@ -143,7 +186,52 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="CatDogQueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="getMinStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="HanoiProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
               <item name="MaxWindowArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="RecursionReverseStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="SortStackByStack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
@@ -169,7 +257,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555427289679" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555427408016" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -270,7 +358,8 @@
       <workItem from="1555226957947" duration="4378000" />
       <workItem from="1555309745578" duration="1255000" />
       <workItem from="1555334706955" duration="4904000" />
-      <workItem from="1555425034214" duration="2234000" />
+      <workItem from="1555425034214" duration="2446000" />
+      <workItem from="1555511399983" duration="3691000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -357,7 +446,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39325000" />
+    <option name="totallyTimeSpent" value="43228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,9 +459,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27970898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28455943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,7 +469,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.30373" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.30373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,44 +559,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/由两个栈组成的队列.md" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -533,13 +587,6 @@
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -572,16 +619,6 @@
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -652,20 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="30" selection-start-line="41" selection-start-column="8" selection-end-line="43" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -690,10 +713,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/TwoStacksQueue/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -707,10 +737,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+        <state relative-caret-position="266">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/设计一个有getMin()功能的栈.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/getMinStack/MyStack1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/RecursionReverseStack/ReverseStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/SortStackByStack/StackSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/HanoiProblem/Resolution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="30" selection-start-line="41" selection-start-column="8" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/CatDogQueue/MyQueue1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
