@@ -24,6 +24,10 @@
 
 #### [链表问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist)
 
-[打印两个有序链表的公共部分]()
+[打印两个有序链表的公共部分](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/PrintPublic)
 
-[在单链表和双链表中删除倒数第K个节点]()
+[在单链表和双链表中删除倒数第K个节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/RemoveLastKthNode)
+
+
+
+持续更新……

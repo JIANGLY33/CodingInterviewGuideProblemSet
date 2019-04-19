@@ -89,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-21" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
@@ -165,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555684440518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555684453161" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -268,7 +268,7 @@
       <workItem from="1555334706955" duration="4904000" />
       <workItem from="1555425034214" duration="2446000" />
       <workItem from="1555511399983" duration="3691000" />
-      <workItem from="1555679891437" duration="4452000" />
+      <workItem from="1555679891437" duration="4708000" />
     </task>
     <task id="LOCAL-00001" summary="txt">
       <created>1555056840720</created>
@@ -355,7 +355,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47680000" />
+    <option name="totallyTimeSpent" value="47936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,7 +367,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28940988" />
