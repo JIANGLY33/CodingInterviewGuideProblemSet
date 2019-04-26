@@ -1,5 +1,9 @@
 package Linkedlist.RemoveLastKthNode;
 
+/** 题目：分别实现两个函数，一个可以删除单链表中倒数第K个节点，另一个可以删除双链表中
+ *  倒数第K个节点。
+ */
+
 public class removeKth {
     public Node removeKthNode(Node head,int k) {
         if(head == null || k < 1)return head;

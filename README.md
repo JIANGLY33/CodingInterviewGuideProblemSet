@@ -20,6 +20,8 @@
 
 [生成窗口最大值数组](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/MaxWindowArray)
 
+[单调栈结构](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/MonotonicStack)
+
 
 
 #### [链表问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist)

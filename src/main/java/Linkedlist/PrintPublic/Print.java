@@ -1,5 +1,8 @@
 package Linkedlist.PrintPublic;
 
+/** 题目：给定两个有序链表的头指针head1和head2，打印两个链表的公共部分
+ *
+ */
 public class Print {
     public void printPublic(Node head1,Node head2) {
         while(head1 != null && head2 != null) {
