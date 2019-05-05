@@ -22,6 +22,10 @@
 
 [单调栈结构](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/MonotonicStack)
 
+[求最大子矩阵的大小](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/MaxSquareMatrix)
+
+[最大值减去最小值小于等于num的子数组数量](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/MaxMinusMinArray)
+
 
 
 #### [链表问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist)
