@@ -1,4 +1,4 @@
-﻿package StackAndQueue.MaxWindowArray;
+package StackAndQueue.MaxWindowArray;
 import java.util.LinkedList;
 
 /** 利用双端队列求解，时间复杂度为O(N)

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4f51873-8e07-4f53-b1dc-77ee33c961ed" name="Default Changelist" comment="" />
+    <list default="true" id="b4f51873-8e07-4f53-b1dc-77ee33c961ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StackAndQueue/MaxMinusMinArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StackAndQueue/MaxMinusMinArray/Solution.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,26 +25,66 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="817">
               <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            <state relative-caret-position="266">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="737" selection-start-line="737" selection-end-line="737" />
+            <state relative-caret-position="38">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Repeat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding>
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -60,6 +107,11 @@
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Repeat.java" />
       </list>
     </option>
   </component>
@@ -123,7 +175,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxMinusMinArray" type="462c0819:PsiDirectoryNode" />
+              <item name="VisibleMountains" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,7 +205,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="JUnit.MaxWindowArrayTest.test">
     <configuration name="MaxSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackAndQueue.MaxSquareMatrix.MaxSquareMatrix" />
       <module name="CodingInterviewGuide" />
@@ -181,8 +246,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxWindowArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterviewGuide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MaxWindowArrayTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingInterviewGuide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseStackTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaxWindowArrayTest.test" />
+        <item itemvalue="JUnit.ReverseStackTest.test" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MaxSquareMatrix" />
       </list>
@@ -203,16 +290,23 @@
       <workItem from="1556872052609" duration="64000" />
       <workItem from="1556968001794" duration="4328000" />
       <workItem from="1557030045965" duration="5930000" />
+      <workItem from="1557113809763" duration="222000" />
+      <workItem from="1557298889039" duration="4122000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MaxWindowArrayTest_test - 2019.05.08 at 15h 18m 36s.xml">
+      <configuration name="MaxWindowArrayTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10806000" />
+    <option name="totallyTimeSpent" value="15150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27405012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,6 +340,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
@@ -261,10 +373,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/GetMinStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+        <state relative-caret-position="-71">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HanoiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -275,10 +394,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        <state relative-caret-position="266">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MaxWindowArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Repeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
