@@ -26,6 +26,8 @@
 
 [最大值减去最小值小于等于num的子数组数量](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/MaxMinusMinArray)
 
+[可见的山峰对数量](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/StackAndQueue/VisibleMountains)
+
 
 
 #### [链表问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist)
