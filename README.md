@@ -36,6 +36,10 @@
 
 [在单链表和双链表中删除倒数第K个节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/RemoveLastKthNode)
 
+[删除链表的中间节点和a/b处的节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/DeleteMidNode)
 
+[反转单向和双向链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/ReverseLinkedList)
+
+[反转部分单向链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/ReversePartialLinkedList)
 
 持续更新……

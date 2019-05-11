@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4f51873-8e07-4f53-b1dc-77ee33c961ed" name="Default Changelist" comment="" />
+    <list default="true" id="b4f51873-8e07-4f53-b1dc-77ee33c961ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedlist/DeleteMidNode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedlist/ReversePartialLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,65 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CatDogQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxWindowArray/getMaxWindow2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Repeat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/ReversePartialLinkedList/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+            <state relative-caret-position="399">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -86,6 +38,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\ComputerScience\Java\CodingInterviewGuide\src\main\java\Linkedlist</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,6 +61,10 @@
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/Repeat.java" />
         <option value="$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Linkedlist/DeleteMidNode/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Linkedlist/ReversePartialLinkedList/Solution.java" />
       </list>
     </option>
   </component>
@@ -124,8 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,19 +117,69 @@
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="DeleteMidNode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="DeleteMidNode" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="ReversePartialLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,13 +203,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WithoutRepeat">
-    <configuration name="MaxSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.MaxSquareMatrix.MaxSquareMatrix" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="DoubleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.ReverseLinkedList.DoubleLinkedList" />
       <module name="CodingInterviewGuide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.MaxSquareMatrix.*" />
+          <option name="PATTERN" value="Linkedlist.ReverseLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.ReverseLinkedList.LinkedList" />
+      <module name="CodingInterviewGuide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linkedlist.ReverseLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.DeleteMidNode.Solution" />
+      <module name="CodingInterviewGuide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linkedlist.DeleteMidNode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +244,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.MaxMinusMinArray.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.ReversePartialLinkedList.Solution" />
       <module name="CodingInterviewGuide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.MaxMinusMinArray.*" />
+          <option name="PATTERN" value="Linkedlist.ReversePartialLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,33 +269,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxWindowArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterviewGuide" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxWindowArrayTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodingInterviewGuide" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReverseStackTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WithoutRepeat" />
-        <item itemvalue="JUnit.MaxWindowArrayTest.test" />
-        <item itemvalue="JUnit.ReverseStackTest.test" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MaxSquareMatrix" />
+        <item itemvalue="Application.DoubleLinkedList" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.WithoutRepeat" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +299,7 @@
       <workItem from="1557324920660" duration="3159000" />
       <workItem from="1557387180787" duration="4211000" />
       <workItem from="1557410974822" duration="236000" />
+      <workItem from="1557551189613" duration="10630000" />
     </task>
     <servers />
   </component>
@@ -290,12 +309,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22756000" />
+    <option name="totallyTimeSpent" value="33386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28860146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,13 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxMinusMinArray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -441,8 +453,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/VisibleMountains/WithoutRepeat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+        <state relative-caret-position="96">
+          <caret line="57" column="27" lean-forward="true" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackAndQueue/MaxSquareMatrix/MaxSquareMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/RemoveLastKthNode/removeKth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/DeleteMidNode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="69" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="method#main#0;class#DoubleLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/ReverseLinkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Linkedlist/ReversePartialLinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
