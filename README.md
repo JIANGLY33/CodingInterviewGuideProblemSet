@@ -42,4 +42,9 @@
 
 [反转部分单向链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/ReversePartialLinkedList)
 
+[环形单链表的约瑟夫问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/JosephusProblem)
+
+[判断一个链表是否为回文结构](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/JudgePalindrome)
+
 持续更新……
+

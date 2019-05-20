@@ -1,7 +1,7 @@
 package Linkedlist.JosephusProblem;
 
 public class Solution {
-    //常规解法，复杂度为O(N²)
+    //常规解法，时间复杂度为O(N²)
     public static Node solution1(Node head, int num) {
         //头节点为空或只有一个节点或num<1时直接返回头节点
         if(head == null || head.next == head || num < 1)return head;
@@ -28,11 +28,22 @@ public class Solution {
         return head;
     }
 
+
+    //时间复杂度为O(N)的解法，用递推关系式根据环长度和要报的数直接计算出结果
     public static Node soulution2(Node head, int num) {
         if(head == null || head.next == head || num <1)return head;
         Node cur = head;
-        
-
+        int length = 0;
+        while(cur != null) {
+            length++;
+            cur = cur.next;
+        }
+        int res = getLive(length,num);
+        while(--res != 0) {
+            head = head.next;
+        }
+        head.next = head;
+        return head;
     }
 
     //新老编号的递推关系式：老编号 = （新编号 + 报数-1）%编号数+1
