@@ -7,7 +7,7 @@ public class Solution2 {
     public static boolean judge(Node head) {
         if(head == null || head.next == null)return true;
         if(head.next.next == null){
-            if(head.next == head)return true;
+            if(head.next.value == head.value)return true;
             else return false;
         }
         Node node1 = head;
