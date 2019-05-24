@@ -46,5 +46,9 @@
 
 [判断一个链表是否为回文结构](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/JudgePalindrome)
 
+[将单向链表按某值划分成左边小、中间相等、右边大的形式](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/DivideLinkedList)
+
+[两个单链表生成相加链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/AddTwoLinkedLists)
+
 持续更新……
 
