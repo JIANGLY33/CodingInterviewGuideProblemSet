@@ -14,4 +14,10 @@ public class getMaxWindow1 {
        }
        return result;
    }
+
+    public static void main(String[] args) {
+        for(int x :getMaxWindow1.getMaxWindow(new int[]{4,3,5,4,3,3,6,7,4,3,2,6,7,8,9},3)) {
+            System.out.print(x + " ");
+        }
+    }
 }

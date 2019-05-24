@@ -48,4 +48,13 @@ public class MyQueue {
         pushToPoll();
         return pollStack.pop();
     }
+
+    public static void main(String[] args) {
+        MyQueue q = new MyQueue();
+        for(int i = 0; i < 2; i++) {
+            q.add(i);
+        }
+        System.out.println(q.poll());
+        System.out.println(q.poll());
+    }
 }

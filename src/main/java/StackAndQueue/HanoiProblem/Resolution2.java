@@ -43,6 +43,10 @@ public class Resolution2 {
         int count = move(n,"left","mid","right");
         System.out.println("It will move " + count + " steps. ");
     }
+
+    public static void main(String[] args) {
+        Resolution2.resolve(2);
+    }
 }
 
 enum Action {

@@ -43,4 +43,8 @@ public class Resolution1 {
                 new Resolution1().move(n,"left","mid","right",src,dest)
                 + " steps. ");
     }
+
+    public static void main(String[] args) {
+        Resolution1.resolve(2,"left","right");
+    }
 }

@@ -25,4 +25,15 @@ public class StackSort {
         while(!temp.empty())
             s.push(temp.pop());
     }
+
+    public static void main(String[] args) {
+        Stack<Integer> s = new Stack<Integer>();
+        for(int i = 10; i > 0; i--) {
+            s.push(i);
+        }
+        StackSort.sort(s);
+        for(int i = 0; i < 10; i++) {
+            System.out.println(s.pop());
+        }
+    }
 }

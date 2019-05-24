@@ -31,6 +31,13 @@ public class ReverseStack {
             s.push(elem);
         }
     }
+
+    public static void main(String[] args) {
+        Stack<Integer> s = new Stack<>();
+        for(int i = 0; i < 10; i++)s.push(i);
+        reverseStack(s);
+        for(int i = 0; i < 10; i++) System.out.println(s.pop());
+    }
 }
 
 /** 反思 **/
