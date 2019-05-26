@@ -48,6 +48,8 @@
 
 [将单向链表按某值划分成左边小、中间相等、右边大的形式](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/DivideLinkedList)（参考难度:⭐+ ⭐⭐ 提供解法: 💧+💧）
 
+[复制含有随机指针节点的链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/CopyRandomNode)（参考难度:⭐⭐  提供解法: 💧💧）
+
 [两个单链表生成相加链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/AddTwoLinkedLists)（参考难度:⭐ 提供解法: 💧💧💧）
 
 持续更新……
