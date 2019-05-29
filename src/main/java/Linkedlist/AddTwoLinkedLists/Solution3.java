@@ -1,5 +1,10 @@
 package Linkedlist.AddTwoLinkedLists;
 
+/**
+ * 解题思路：先将两个单链表分别逆置，再从头节点开始依次遍历并相加，计算完毕后逆置复原
+ * 复杂度：时间复杂度O(N),空间复杂度O(1)
+ * 备注：在计算完毕后需要将被逆置的链表复原
+ */
 public class Solution3 {
     public static Node add(Node head1, Node head2) {
        head1 = reverse(head1);
@@ -35,6 +40,8 @@ public class Solution3 {
            newNode.next = res;
            res = newNode;
        }
+       reverse(head1);
+       reverse(head2);
        return res;
     }
 

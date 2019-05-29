@@ -1,5 +1,10 @@
 package Linkedlist.AddTwoLinkedLists;
 
+/**
+ * 解题思路：先分别遍历两个单链表，得到它们各自代表的数，将两个数字相加，再将得到的数字用单链表表示
+ * 复杂度：时间复杂度O(N),空间复杂度O(1)
+ * 备注：在原有单链表很长的情况下可能会导致得到的数字过于巨大；用头插法创建新的链表
+ */
 public class Solution1 {
     public static Node add(Node head1,Node head2) {
         Integer h1 = 0;

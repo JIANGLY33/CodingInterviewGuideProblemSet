@@ -2,6 +2,13 @@ package Linkedlist.AddTwoLinkedLists;
 
 import java.util.Stack;
 
+/**
+ * 解题思路：将两个单链表中节点的值分别压入两个堆栈中，因为堆栈中弹出的值一定是由低位到高位的（比如两个堆栈第一次弹出的值
+ *           必然是代表个位数的值，第二次弹出的值必然是十位的值），因此每次将两个堆栈同时弹出的值相加构造成新的节点，并利用
+ *           头插法构造新链表。
+ * 复杂度：时间复杂度为O(N),空间复杂度也为O(N)
+ * 备注：要考虑堆栈中每次弹出的值相加是否会产生进位的问题。
+ */
 public class Solution2 {
     public static Node add(Node head1, Node head2) {
         Stack<Integer> h1 = new Stack<>();
