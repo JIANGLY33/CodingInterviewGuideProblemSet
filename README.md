@@ -52,5 +52,7 @@
 
 [两个单链表生成相加链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/AddTwoLinkedLists)（参考难度:⭐ 提供解法: 💧💧💧）
 
+[两个单链表相交的一系列问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/IntersectNode)（参考难度:⭐⭐⭐⭐  提供解法: 💧）
+
 持续更新……
 
