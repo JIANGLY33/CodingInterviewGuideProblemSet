@@ -54,5 +54,7 @@
 
 [两个单链表相交的一系列问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/IntersectNode)（参考难度:⭐⭐⭐⭐  提供解法: 💧）
 
+[将单链表的每K个节点之间逆序](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/ReverseKNodes)（参考难度:⭐⭐  提供解法: 💧💧）
+
 持续更新……
 
