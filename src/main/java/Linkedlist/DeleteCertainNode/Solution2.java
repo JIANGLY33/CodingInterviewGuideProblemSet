@@ -1,23 +1,25 @@
-package Linkedlist.DeleteRepeatNodes;
+package Linkedlist.DeleteCertainNode;
 
-import java.util.HashSet;
-
-public class Solution1 {
-    public static Node deleteRepeatNodes(Node head) {
+/**
+ * 解题思路：遍历链表直接删去链表中值与给定值相同的节点
+ * 复杂度：时间复杂度为O(N),空间复杂度为O(1)
+ * 注意点：要区分两种情况进行处理：1.要删除的值与头节点的值相等  2.要删除的值与非头节点的值相等
+ */
+public class Solution2 {
+    public static Node deleteNodes(Node head, int value) {
+        while(head != null && head.value == value) {
+            head = head.next;
+        }
         if(head == null)return head;
-        HashSet<Integer> set = new HashSet<>();
-        set.add(head.value);
         Node cur = head.next;
         Node pre = head;
         while(cur != null) {
-            if(set.contains(cur.value)) {
+            if(cur.value == value) {
                 pre.next = cur.next;
-                cur = pre.next;
             }else {
-                set.add(cur.value);
-                cur = cur.next;
                 pre = pre.next;
             }
+            cur = cur.next;
         }
         return head;
     }
@@ -35,19 +37,14 @@ public class Solution1 {
         n5.next = null;
         n1.value = 4;
         n2.value = 4;
-        n3.value = 4;
+        n3.value = 2;
         n4.value = 4;
         n5.value = 4;
         Node cur = n1;
-        cur = deleteRepeatNodes(n1);
+         cur = deleteNodes(cur,4);
         while(cur != null) {
             System.out.println("value: " + cur.value);
             cur = cur.next;
         }
     }
-}
-
-class Node {
-    public int value;
-    public Node next;
 }
