@@ -54,13 +54,13 @@
 
 [两个单链表相交的一系列问题](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/IntersectNode)（参考难度:⭐⭐⭐⭐  提供解法: 💧）
 
-[将单链表的每K个节点之间逆序](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/ReverseKNodes)（参考难度:⭐⭐  提供解法: 💧💧）
+[将单链表的每K个节点之间逆序](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/ReverseKNodes)（参考难度:⭐⭐  提供解法: 💧💧）
 
-[删除无序单链表中值重复出现的节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/DeleteRepeatNodes)（参考难度:⭐  提供解法: 💧💧）
+[删除无序单链表中值重复出现的节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/DeleteRepeatNodes)（参考难度:⭐  提供解法: 💧💧）
 
-[在单链表中删除指定值的节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/DeleteCertainNode)（参考难度:⭐ 提供解法: 💧💧💧）
+[在单链表中删除指定值的节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/DeleteCertainNode)（参考难度:⭐ 提供解法: 💧💧💧）
 
-[将搜索二叉树转换成双向链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/BSTToDNode)（参考难度:⭐⭐  提供解法: 💧💧）
+[将搜索二叉树转换成双向链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/BSTToDNode)（参考难度:⭐⭐  提供解法: 💧💧）
 
 持续更新……
 
