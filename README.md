@@ -62,5 +62,15 @@
 
 [将搜索二叉树转换成双向链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/BSTToDNode)（参考难度:⭐⭐  提供解法: 💧💧）
 
+[单链表的选择排序](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/SelectSort)（参考难度:⭐  提供解法: 💧）
+
+[一种怪异的节点删除方式](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/StrangeDelete)（参考难度:⭐  提供解法: 💧）
+
+[向有序的环形单链表中插入新节点](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/CircleListInserion)（参考难度:⭐  提供解法: 💧）
+
+[合并两个有序的单链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/MergeTwoLists)（参考难度:⭐  提供解法: 💧💧）
+
+[按照左右半区的方式重新组合单链表](https://github.com/JIANGLY33/CodingInterviewGuideProblemSet/tree/master/src/main/java/Linkedlist/RegroupNodes)（参考难度:⭐  提供解法: 💧）
+
 持续更新……
 
