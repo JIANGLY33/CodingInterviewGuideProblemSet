@@ -60,7 +60,13 @@ public class RBTreeNode<T extends Comparable<T>> {
     }
     @Override
     public String toString(){
-        return value.toString();
+        StringBuilder res = new StringBuilder("is red:" + isRed() + ", value: " + value);
+        if(parent == null) {
+            res.append(",parent:null");
+        }else {
+            res.append(",parent" + parent.value);
+        }
+        return res.toString();
     }
 }
 

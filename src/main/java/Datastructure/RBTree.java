@@ -1,5 +1,8 @@
 package Datastructure;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class RBTree<T extends Comparable<T>> {
     private final RBTreeNode<T> root;
     //node number
@@ -504,24 +507,46 @@ public class RBTree<T extends Comparable<T>> {
     }
 
 
+//    public static void main(String[] args) {
+//        RBTree<String> bst = new RBTree<String>();
+//        bst.addNode("d");
+//        bst.addNode("d");
+//        bst.addNode("c");
+//        bst.addNode("c");
+//        bst.addNode("b");
+//        bst.addNode("f");
+//
+//        bst.addNode("a");
+//        bst.addNode("e");
+//
+//        bst.addNode("g");
+//        bst.addNode("h");
+//
+//
+//        bst.remove("c");
+//
+//        bst.printTree(bst.getRoot());
+//    }
+    public void print() {
+        RBTreeNode<T> root = getRoot();
+        Queue<RBTreeNode<T>> queue = new LinkedList<>();
+        if(root != null)queue.add(root);
+        while(!queue.isEmpty()) {
+            RBTreeNode<T> node = queue.poll();
+            if(node.getLeft() != null) {
+                queue.add(node.getLeft());
+            }
+            if(node.getRight() != null) {
+                queue.add(node.getRight());
+            }
+            System.out.println(node);
+        }
+    }
+
+
     public static void main(String[] args) {
-        RBTree<String> bst = new RBTree<String>();
-        bst.addNode("d");
-        bst.addNode("d");
-        bst.addNode("c");
-        bst.addNode("c");
-        bst.addNode("b");
-        bst.addNode("f");
-
-        bst.addNode("a");
-        bst.addNode("e");
-
-        bst.addNode("g");
-        bst.addNode("h");
-
-
-        bst.remove("c");
-
-        bst.printTree(bst.getRoot());
+        RBTree<Integer> RBT = new RBTree<>();
+        for(int i = 0; i < 10; i++) RBT.addNode(i);
+        RBT.print();
     }
 }
